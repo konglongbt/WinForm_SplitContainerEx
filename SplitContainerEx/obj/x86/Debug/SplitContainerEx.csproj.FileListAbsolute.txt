@@ -1,0 +1,7 @@
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\bin\Debug\SplitContainerEx.exe
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\bin\Debug\SplitContainerEx.pdb
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\obj\x86\Debug\SplitContainerEx.Properties.Resources.resources
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\obj\x86\Debug\SplitContainerEx.csproj.GenerateResource.Cache
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\obj\x86\Debug\SplitContainerEx.exe
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\obj\x86\Debug\SplitContainerEx.pdb
+C:\Users\CSIMES\Desktop\SplitContainerEx\SplitContainerEx\obj\x86\Debug\SplitContainerEx.Form1.resources
